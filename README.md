@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeurve)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![trophy](https://github-profile-trophy.vercel.app/?username=robeurve&theme=juicyfresh)](https://github.com/robeurve/github-profile-trophy)
