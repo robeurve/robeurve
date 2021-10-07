@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Ronald GitHub stats](https://github-readme-stats.vercel.app/api?username=robeurve&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeurve)
+
 ![Visitor Count](https://profile-counter.glitch.me/{robeurve}/count.svg)
